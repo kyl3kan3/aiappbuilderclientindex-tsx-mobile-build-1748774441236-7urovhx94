@@ -5,7 +5,7 @@
 [36mvite v4.5.14 [32mbuilding for production...[36m[39m
 transforming...
 [32m✓[39m 2 modules transformed.
-[32m✓ built in 54ms[39m
+[32m✓ built in 59ms[39m
 [31m[vite:esbuild] parsing /home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/tsconfig.node.json failed: Error: ENOENT: no such file or directory, open '/home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/tsconfig.node.json'[39m
 file: [36m/home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/src/main.tsx[39m
 [31merror during build:
