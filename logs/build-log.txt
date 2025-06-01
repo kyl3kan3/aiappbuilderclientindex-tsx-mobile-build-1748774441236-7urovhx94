@@ -1,0 +1,22 @@
+
+> aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94@1.0.0 build
+> vite build
+
+[36mvite v4.5.14 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 2 modules transformed.
+[32m✓ built in 50ms[39m
+[31m[vite:esbuild] parsing /home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/tsconfig.node.json failed: Error: ENOENT: no such file or directory, open '/home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/tsconfig.node.json'[39m
+file: [36m/home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/src/main.tsx[39m
+[31merror during build:
+_TSConfckParseError: parsing /home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/tsconfig.node.json failed: Error: ENOENT: no such file or directory, open '/home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/tsconfig.node.json'
+    at parseFile$1 (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/vite/dist/node/chunks/dep-827b23df.js:13574:11)
+    at async Promise.all (index 0)
+    at async parseReferences (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/vite/dist/node/chunks/dep-827b23df.js:13594:22)
+    at async Promise.all (index 1)
+    at async parse$f (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/vite/dist/node/chunks/dep-827b23df.js:13553:5)
+    at async loadTsconfigJsonForFile (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/vite/dist/node/chunks/dep-827b23df.js:14200:24)
+    at async transformWithEsbuild (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/vite/dist/node/chunks/dep-827b23df.js:13867:36)
+    at async Object.transform (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/vite/dist/node/chunks/dep-827b23df.js:14010:32)
+    at async transform (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/rollup/dist/es/shared/node-entry.js:24449:16)
+    at async ModuleLoader.addModuleSource (file:///home/runner/work/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/aiappbuilderclientindex-tsx-mobile-build-1748774441236-7urovhx94/node_modules/rollup/dist/es/shared/node-entry.js:24649:30)[39m
